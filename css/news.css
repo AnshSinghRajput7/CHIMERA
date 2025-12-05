@@ -52,13 +52,13 @@
     }
 
     .nav-left h1 {
-      margin: 0;
-      font-size: 26px;
+      font-size: 36px;
       background: linear-gradient(90deg, magenta, yellow, magenta, yellow);
       -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
+      -webkit-text-fill-color: transparent; 
+      margin: 0;
       animation: shine 5s linear infinite;
-      background-size: 300px;
+      background-size: 300%;
     }
 
     nav {
